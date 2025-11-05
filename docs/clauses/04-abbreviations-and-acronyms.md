@@ -1,0 +1,64 @@
+# Clause 4: Abbreviations and Acronyms
+
+The following abbreviations and acronyms are used in this standard.
+
+- **AES** — Advanced Encryption Standard
+- **AN** — Association Number
+- **BEB** — Backbone Edge Bridge
+- **BPDU** — Bridge Protocol Data Unit
+- **CA** — secure Connectivity Association
+- **CFM** — Connectivity Fault Management
+- **CRC** — Cyclic Redundancy Check
+- **DA** — Destination Address
+- **EDE** — Ethernet Data Encryption device
+- **EDE-CC** — Ethernet Data Encryption device with red-side recognition of C-TAGs and black-side addition and removal of C-TAGs
+- **EDE-CS** — Ethernet Data Encryption device with red-side recognition of C-TAGs and black-side addition and removal of S-TAGs
+- **EDE-M** — VLAN-unaware Ethernet Data Encryption device operating as a Customer Bridge
+- **EDE-SS** — Ethernet Data Encryption device with red-side recognition of S-TAGs and black-side addition and removal of S-TAGs
+- **EISS** — Enhanced Internal Sublayer Service
+- **EPON** — Ethernet Passive Optical Network
+- **ES** — End Station
+- **FCS** — Frame Check Sequence
+- **GCM** — Galois Counter Mode
+- **ICV** — Integrity Check Value
+- **ISS** — Internal Sublayer Service
+- **IV** — Initialization Vector
+- **KaY** — MAC Security Key Agreement Entity
+- **LACP** — Link Aggregation Control Protocol
+- **LAN** — IEEE 802 Local Area Network
+- **LLC** — Logical Link Control (ISO/IEC/IEEE 8802.2™ [B10])
+- **LLDP** — Link Layer Discovery Protocol
+- **LMI** — Layer Management Interface
+- **MAC** — Media Access Control
+- **MACsec** — Media Access Control Security
+- **MIB** — Management Information Base
+- **MKA** — MACsec Key Agreement protocol (IEEE Std 802.1X)
+- **MKPDU** — MACsec Key Agreement Protocol Data Unit
+- **MPDU** — MACsec Protocol Data Unit
+- **MSDU** — MAC Service Data Unit
+- **MSTP** — Multiple Spanning Tree Protocol
+- **OLT** — Optical Line Terminal
+- **ONU** — Optical Network Unit
+- **PAE** — Port Access Entity
+- **PCP** — Priority Code Point (IEEE Std 802.1Q)
+- **PDU** — Protocol Data Unit
+- **PEB** — Provider Edge Bridge
+- **PEP** — Provider Edge Port
+- **PN** — Packet Number
+- **QoS** — Quality of Service
+- **RSTP** — Rapid Spanning Tree Algorithm and Protocol
+- **SA** — Secure Association (or Source Address, as applicable)
+- **SAI** — Secure Association Identifier
+- **SAK** — Secure Association Key
+- **SC** — Secure Channel
+- **SCB** — Single Copy Broadcast
+- **SCI** — Secure Channel Identifier
+- **SecTAG** — MAC Security TAG
+- **SecY** — MAC Security Entity
+- **SL** — Short Length
+- **SMI** — Structure of Management Information
+- **SNMP** — Simple Network Management Protocol
+- **SSCI** — Short Secure Channel Identifier
+- **STP** — Spanning Tree Protocol
+- **UNI** — User Network Interface (IEEE Std 802.1Q)
+
